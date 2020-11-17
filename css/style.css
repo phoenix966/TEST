@@ -1,0 +1,82 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  font-size: 16px;
+}
+
+.wrapper {
+  min-height: 100%;
+  overflow: hidden;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1140px;
+}
+
+.body {
+  min-width: 375px;
+}
+.svg-rect{
+  fill: rgb(115, 115, 209);
+}
+.svg-rect-2{
+  fill: coral;
+}
+.svg-line{
+  stroke: crimson;
+  stroke-width: 10;
+}
+.svg-line-2{
+  stroke: rgb(110, 220, 20);
+  stroke-width: 10;
+}
+.svg-line-3{
+  stroke: rgb(220, 77, 20);
+  stroke-width: 10;
+}
+/* page 2 */
+
+.svg-circle{
+  fill: yellow;
+}
+.svg-circle-eye{
+  fill: #fff;
+}
+.svg-circle-b{
+  fill: gray;
+}
+.svg-mouth{
+  fill: rgb(209, 134, 134);
+}
+.svg-target{
+  stroke-width: 10;
+  stroke: crimson;
+  fill-opacity: 0;
+}
+.svg-target-1{
+  fill: crimson;
+}
+.svg-tv{
+  fill: darkgrey;
+}
+.svg-tv-2{
+  fill: rgb(31, 175, 211);
+}
+.svg-tv-pan{
+  fill: rgb(70, 66, 62);
+}
+.svg-tv-pan-2{
+  fill: rgb(211, 31, 31);
+}
+.svg-tv-pan-2:nth-last-of-type(2){
+  fill: yellow;
+}
+.svg-tv-pan-2:nth-last-of-type(1){
+  fill: green;
+}
+/*# sourceMappingURL=style.css.map */
